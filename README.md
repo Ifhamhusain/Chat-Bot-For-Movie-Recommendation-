@@ -84,6 +84,6 @@ streamlit run chatbot_ui.py
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/karan-sai-goud-katam-ab93161b7/)  
-Email: [karan.katam16@gmail.com](mailto:karan.katam16@gmail.com)
+Connect with me on [LinkedIn](www.linkedin.com/in/ifham-husain-zaidi-19112823b)  
+Email: [ifhamhusain017@gmail.com](mailto:ifhamhusain017@gmail.com)
 
